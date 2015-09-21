@@ -4,3 +4,4 @@ more hopefully working code added
 
 further code added
 correct code aded
+terse, efficient, tested, readable, maintainable code
